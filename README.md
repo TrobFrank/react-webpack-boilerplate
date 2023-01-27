@@ -19,6 +19,8 @@ This is meant for a quick start up of a React v18 application bundled with Webpa
 - simple apps reliant on non-restricted REST APIs, for example certain resources listed on: 
 	> https://github.com/public-apis/public-apis
 
+## Features
+
 #### Out of the box support includes:
 - JSX
 - SASS
@@ -28,7 +30,7 @@ This is meant for a quick start up of a React v18 application bundled with Webpa
 - EJS template with custom templateParameters
 - BundleAnalyzerPlugin
 
-#### Does not include:
+#### Does NOT include:
 - Server side rendering
-- EJS templating with partials
+- Support for EJS partials
 - Secure storage of secrets
